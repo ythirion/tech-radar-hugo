@@ -1,4 +1,6 @@
 # Tech radar
+You can play with a version of the radar deployed on netlify [here](https://tech-radar-hugo.netlify.app/)
+
 ## What ?
 
 The Radar is a document that sets out the changes that are currently interesting regarding software development.  
