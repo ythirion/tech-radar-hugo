@@ -4,3 +4,6 @@
 # Maven
 log/
 target/
+
+resources/
+public/
