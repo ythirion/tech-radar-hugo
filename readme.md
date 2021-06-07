@@ -91,12 +91,12 @@ Paste the generated script in the `/layouts/_default/radar.html`script part
 ## Setup your dev environment
 [Install hugo](https://gohugo.io/getting-started/installing/) or simply add the binary file at the root of the repository
 
-## Serve the radar with jekyll
+## Serve the radar
 ```
 hugo -w server
 ```
 
 ## Build the website
 ```
-hugo -D
+hugo --config prod.toml
 ```
