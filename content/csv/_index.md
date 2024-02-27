@@ -1,4 +1,5 @@
 +++
-title="Extract"
-layout="csv"
+title = "Extract"
+layout = "data"
+outputs = ["csv"]
 +++
